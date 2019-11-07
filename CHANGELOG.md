@@ -1,6 +1,6 @@
 # bedrock-fontawesome ChangeLog
 
-## 1.0.0 - 2019-xx-xx
+## 1.0.0 - 2019-11-07
 
 ### Added
 - Add core files.
