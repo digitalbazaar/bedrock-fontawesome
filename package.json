@@ -1,6 +1,7 @@
 {
-  "name": "bedrock-fontawesome",
+  "name": "@bedrock/web-fontawesome",
   "version": "1.0.1-0",
+  "type": "module",
   "description": "Font Awesome support for Bedrock",
   "keywords": [
     "bedrock",
@@ -23,8 +24,5 @@
   "main": "index.js",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.11.1"
-  },
-  "engines": {
-    "node": ">=8.9.0"
   }
 }
