@@ -3,6 +3,7 @@
   "version": "2.0.1-0",
   "type": "module",
   "description": "Font Awesome support for Bedrock",
+  "license": "Apache-2.0",
   "keywords": [
     "bedrock",
     "fontawesome"
@@ -20,7 +21,6 @@
     "url": "https://github.com/digitalbazaar/bedrock-fontawesome/issues"
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-fontawesome",
-  "license": "SEE LICENSE IN LICENSE.md",
   "main": "index.js",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.11.1"
